@@ -1,23 +1,31 @@
-# MyProductQRProject
+# React JSON Server CRUD Application
 
-MyProductQRProject is a web application that provides detailed information about food products based on scanned QR codes. With MyProductQRProjec, users can easily retrieve information about various food items by simply scanning the QR code associated with the product packaging.
+This project is a simple CRUD (Create, Read, Update, Delete) application built using React for the frontend and JSON Server for the backend. It allows users to manage their data through a user-friendly interface.
+
+
 
 ## Features
 
-- **QR Code Scanning:** Users can scan the QR code using their smartphone camera or QR code scanning software.
-- **Product Details:** Once the QR code is scanned, MyNProject fetches detailed information about the food product.
-- **Nutritional Information:** Users can access nutritional facts, ingredient lists, and other relevant information about the scanned food product.
-- **Allergen Warnings:** MyNProject provides allergen warnings for users who have specific dietary restrictions or allergies.
-- **User-Friendly Interface:** The application features an intuitive and easy-to-use interface for seamless user experience.
+- **Create:** Users can add new items to their data.
+- **Read:** Users can view their existing data.
+- **Update:** Users can modify existing data.
+- **Delete:** Users can remove data entries they no longer need.
 
-## Technologies Used
+## Prerequisites
 
-- **Frontend:** HTML, CSS, javascript,react js
-- **API Integration:** Integrates with external APIs or databases to retrieve product information based on the scanned QR code.
+Before running the application, ensure you have Node.js and npm installed on your system.
 
-## Getting Started
-
-To get started with MyNProject, follow these steps:
+## Setup Instructions
 
 1. **Clone the Repository:**
-2. API:https://world.openfoodfacts.org/api/v2/product/737628064502.json
+2. Open your web browser and navigate to http://localhost:3000.
+   ```bash
+   git clone https://github.com/AnkithSReddy/react/crud
+
+ 
+ Acknowledgements
+JSON Server: A full fake REST API for prototyping and mocking.
+React Router: Declarative routing for React.
+Axios: Promise-based HTTP client for the browser and Node.js.
+
+   
