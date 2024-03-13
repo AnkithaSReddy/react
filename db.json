@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "id": "0da3",
+      "name": "",
+      "email": "",
+      "phone": "",
+      "password": ""
+    },
+    {
+      "id": "aa87",
+      "name": "",
+      "email": "",
+      "phone": "",
+      "password": ""
+    },
+    {
+      "id": "dd27",
+      "name": "",
+      "email": "",
+      "phone": "",
+      "password": ""
+    },
+    {
+      "id": "d83e",
+      "name": "hellohi",
+      "email": "h@gmail.com",
+      "phone": "12345",
+      "password": "1234"
+    }
+  ]
+}
