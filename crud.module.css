@@ -1,0 +1,31 @@
+.main{
+    height: 65px;
+    background-color: rgb(137, 137, 131);
+    display: flex;
+    color: white;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+   flex-basis: 40%;
+   display: flex;
+   justify-content: flex-start;
+   align-items: center;
+   margin-left: 40px;
+}
+.menu{
+   flex-basis: 60%;
+   display: flex;
+   justify-content: flex-end;
+   align-items: center;
+   margin-right: 40px;
+   gap: 20px;
+}
+ .links{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+ }
