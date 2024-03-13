@@ -1,6 +1,6 @@
 # MyProductQRProject
 
-MyNProject is a web application that provides detailed information about food products based on scanned QR codes. With MyNProject, users can easily retrieve information about various food items by simply scanning the QR code associated with the product packaging.
+MyProductQRProject is a web application that provides detailed information about food products based on scanned QR codes. With MyProductQRProjec, users can easily retrieve information about various food items by simply scanning the QR code associated with the product packaging.
 
 ## Features
 
